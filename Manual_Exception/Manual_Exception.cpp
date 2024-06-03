@@ -13,7 +13,7 @@ int main()
 		cout << " Pengecualian akan dieksekusi" << endl;
 	}
 	catch (...) {
-		cout << "Default Pengecualian dieksekusi" << end;
+		cout << "Default Pengecualian dieksekusi" << endl;
 	}
 	return 0;
 }
